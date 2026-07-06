@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "De Startup a Multinacional: A Trajetória de uma Empresa de Gestão Ambiental na Bolsa"
-date: 2026-07-07
+date: 2026-07-07 10:31:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Rafael Torres
-tags: ["esg", "governanca-corporativa", "investimentos", "b3"]
 ---
 
 # Case a empresa: De Startup Ambiental a Multinacional com 40 Países e Ações na B3
